@@ -6,7 +6,7 @@
 #   Created : 2016-11-18 12:36:26
 ###############################################
 
-TARGET="calculation ifcode swap getpidtest"
+TARGET="calculation ifcode swap getpidtest timelib"
 CPU="armv4eb armv4l armv4tl armv5l armv6l i486 i586 i686 m68k mips64 mipsel mips powerpc-440fp powerpc sh4 sparc x86_64 sh2eb"
 
 for tt in $TARGET
