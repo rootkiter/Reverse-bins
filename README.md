@@ -1,4 +1,7 @@
 # Reverse-bins
+
+<<[IOT ASSEMBLY LEARNING BLOG](http://rootkiter.com/goto_tags.html#%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%B1%87%E7%BC%96)>>
+
 Same code , different CPU case , different build case , Iot bins reverse learning.
 
 ```
@@ -20,4 +23,3 @@ Same code , different CPU case , different build case , Iot bins reverse learnin
     done
 
 
-<<[IOT ASSEMBLY LEARNING](http://rootkiter.com/goto_tags.html#%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%B1%87%E7%BC%96)>>
