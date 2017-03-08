@@ -7,7 +7,6 @@
 ###############################################
 
 TARGET="calculation ifcode swap getpidtest timelib"
-TARGET="array"
 CPU="armv4eb armv4l armv4tl armv5l armv6l i486 i586 i686 m68k mips64 mipsel mips powerpc-440fp powerpc sh4 sparc x86_64 sh2eb"
 
 for tt in $TARGET
